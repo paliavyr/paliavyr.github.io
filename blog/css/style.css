@@ -197,6 +197,7 @@ figure {
 
 .subsection figure figcaption {
     padding: 0.5rem 0.5rem;
+    font-family: roboto, Arial, Helvetica, sans-serif;
 }
 
 .main-section button {
